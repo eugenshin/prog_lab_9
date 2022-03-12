@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\Evgeniy\source\repos\prog_lab_4\Main.cpp(39,9): warning C4477: "printf": в строке форматирования "%X" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "line *"
+C:\Users\Evgeniy\source\repos\prog_lab_4\Main.cpp(39,9): warning C4313: printf: конфликт "%X" в строке формата с аргументом 1 типа "line *"
+C:\Users\Evgeniy\source\repos\prog_lab_4\Main.cpp(39,9): warning C4477: "printf": в строке форматирования "%X" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "line *"
+C:\Users\Evgeniy\source\repos\prog_lab_4\Main.cpp(39,9): warning C4313: printf: конфликт "%X" в строке формата с аргументом 2 типа "line *"
+C:\Users\Evgeniy\source\repos\prog_lab_4\Main.cpp(39,9): warning C4477: "printf": в строке форматирования "%X" требуется аргумент типа "unsigned int", но вариативный аргумент "3" имеет тип "line *"
+C:\Users\Evgeniy\source\repos\prog_lab_4\Main.cpp(39,9): warning C4313: printf: конфликт "%X" в строке формата с аргументом 3 типа "line *"
+  segments.cpp
+  Создание кода...
+  prog_lab_4.vcxproj -> C:\Users\Evgeniy\source\repos\prog_lab_4\x64\Debug\prog_lab_4.exe
